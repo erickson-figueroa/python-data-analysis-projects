@@ -13,7 +13,7 @@ Welcome to the <strong>Python Data Analysis Projects</strong> repository! This r
   </thead>
   <tbody>
     <tr>
-      <td><a href="NPL_Text_Wiki"><strong>NPL Wikipedia Text Analysis</strong></a></td>
+      <td><a href="https://github.com/erickson-figueroa/wiki_text_analysis/blob/main/datascience_text_analysis_EN.ipynb"><strong>NPL Wikipedia Text Analysis</strong></a></td>
       <td>Simple text analysis about data science from wikipedia page.</td>
     </tr>
     <tr>
