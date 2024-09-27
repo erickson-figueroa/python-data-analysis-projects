@@ -17,7 +17,7 @@ Welcome to the <strong>Python Data Analysis Projects</strong> repository! This r
       <td>This project focuses on automating the ETL process for extracting, transforming, and loading car price data from diverse formats (JSON, XML, CSV) available at a specified URL.</td>
     </tr>
     <tr>
-      <td><a href="Traffic_Data_ETL"><strong>Traffic Data with Apache Airflow</strong></a></td>
+      <td><a href="Traffic_Data_Pipeline"><strong>Traffic Data pipeline with Apache Airflow</strong></a></td>
       <td>The provided Airflow DAG (Directed Acyclic Graph) coordinates an (ETL) process for traffic data, automating the extraction and transformation from diverse sources, including CSV, TSV, and fixed-width text files.</td>
     </tr>
     <tr>
