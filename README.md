@@ -21,6 +21,10 @@ Welcome to the <strong>Python Data Analysis Projects</strong> repository! This r
       <td>The provided Airflow DAG (Directed Acyclic Graph) coordinates an (ETL) process for traffic data, automating the extraction and transformation from diverse sources, including CSV, TSV, and fixed-width text files.</td>
     </tr>
     <tr>
+      <td><a href="Weather_Data_Streaming"><strong>Weather Data Streaming with Apache Kafka</strong></a></td>
+      <td>The Weather Data Processing System collects, processes, and analyzes weather data from multiple cities and stores it in a PostgreSQL database.</td>
+    </tr>
+    <tr>
       <td><a href="Android_App_Market"><strong>The Android App Market on Google Play</strong></a></td>
       <td>Load, clean, and visualize scraped Google Play Store data to gain insights into the Android app market.</td>
     </tr>
