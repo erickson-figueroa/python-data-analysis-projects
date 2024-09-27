@@ -13,6 +13,10 @@ Welcome to the <strong>Python Data Analysis Projects</strong> repository! This r
   </thead>
   <tbody>
     <tr>
+      <td><a href="Car_Price_ETL"><strong>Car Price ETL Automation</strong></a></td>
+      <td>This project focuses on automating the ETL process for extracting, transforming, and loading car price data from diverse formats (JSON, XML, CSV) available at a specified URL.</td>
+    </tr>
+    <tr>
       <td><a href="Android_App_Market"><strong>The Android App Market on Google Play</strong></a></td>
       <td>Load, clean, and visualize scraped Google Play Store data to gain insights into the Android app market.</td>
     </tr>
