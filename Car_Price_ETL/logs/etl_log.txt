@@ -1,0 +1,101 @@
+[INFO]: ETL process started at: 2024-01-14 00:50:57.705
+[INFO]: Zip file downloaded and extracted successfully to the path:'./staging/' 2024-01-14 00:50:58.531
+[INFO]: The consolidated dataframe was created successfully. 2024-01-14 00:51:01.900
+[INFO]: Transformed data saved to: './destination/transformed_prices.csv' 2024-01-14 00:51:06.635
+[INFO]: ETL process completed successfully. 2024-01-14 00:51:06.636
+[INFO]: Transformed data saved to: './destination/transformed_prices.csv' 2024-01-14 00:51:16.339
+[INFO]: ETL process completed successfully. 2024-01-14 00:51:16.339
+[INFO]: Transformed data saved to: './destination/transformed_prices.csv' 2024-01-14 00:51:24.634
+[INFO]: ETL process completed successfully. 2024-01-14 00:51:24.634
+[INFO]: Transformed data saved to: './destination/transformed_prices.csv' 2024-01-14 00:52:14.181
+[INFO]: ETL process completed successfully. 2024-01-14 00:52:14.181
+[INFO]: Transformed data saved to: './destination/transformed_prices.csv' 2024-01-14 00:58:09.367
+[INFO]: ETL process completed successfully. 2024-01-14 00:58:09.367
+[INFO]: The consolidated dataframe was created successfully. 2024-01-14 00:59:19.495
+[INFO]: The consolidated dataframe was created successfully. 2024-01-14 00:59:24.567
+[INFO]: The consolidated dataframe was created successfully. 2024-01-14 00:59:41.482
+[INFO]: The consolidated dataframe was created successfully. 2024-01-14 00:59:48.238
+[INFO]: The consolidated dataframe was created successfully. 2024-01-14 00:59:52.811
+[INFO]: The consolidated dataframe was created successfully. 2024-01-14 00:59:56.659
+[INFO]: ETL process started at: 2024-01-14 01:01:14.600
+[INFO]: Zip file downloaded and extracted successfully to the path:'./staging/' 2024-01-14 01:01:15.335
+[INFO]: The consolidated dataframe was created successfully. 2024-01-14 01:01:44.776
+[INFO]: Transformed data saved to: './destination/transformed_prices.csv' 2024-01-14 01:01:53.292
+[INFO]: ETL process completed successfully. 2024-01-14 01:01:53.292
+[INFO]: The consolidated dataframe was created successfully. 2024-01-14 01:02:13.051
+[INFO]: The consolidated dataframe was created successfully. 2024-01-14 01:02:18.332
+[INFO]: The consolidated dataframe was created successfully. 2024-01-14 01:02:28.854
+[INFO]: ETL process started at: 2024-01-14 01:06:05.786
+[INFO]: Zip file downloaded and extracted successfully to the path:'./staging/' 2024-01-14 01:06:06.477
+[INFO]: ETL process started at: 2024-01-14 01:08:06.596
+[INFO]: Zip file downloaded and extracted successfully to the path:'./staging/' 2024-01-14 01:08:07.284
+[INFO]: The consolidated dataframe was created successfully. 2024-01-14 01:08:11.261
+[INFO]: Transformed data saved to: './destination/transformed_prices.csv' 2024-01-14 01:08:14.856
+[INFO]: ETL process completed successfully. 2024-01-14 01:08:14.856
+[INFO]: ETL process started at: 2024-01-14 01:09:11.500
+[INFO]: Zip file downloaded and extracted successfully to the path:'./staging/' 2024-01-14 01:09:12.209
+[INFO]: Transformed data saved to: './destination/transformed_prices.csv' 2024-01-14 01:16:17.292
+[INFO]: ETL process completed successfully. 10 rows were loaded. 2024-01-14 01:16:17.292
+[INFO]: The consolidated dataframe was created successfully. 2024-01-14 01:17:00.053
+[INFO]: The consolidated dataframe was created successfully. 2024-01-14 01:17:05.653
+[INFO]: The consolidated dataframe was created successfully. 2024-01-14 01:17:10.854
+[INFO]: The consolidated dataframe was created successfully. 2024-01-14 01:20:30.393
+[INFO]: The consolidated dataframe was created successfully. 2024-01-14 01:20:35.677
+[INFO]: The consolidated dataframe was created successfully. 2024-01-14 01:20:39.174
+[INFO]: The consolidated dataframe was created successfully. 2024-01-14 01:20:50.873
+[INFO]: The consolidated dataframe was created successfully. 2024-01-14 01:22:15.039
+[INFO]: The consolidated dataframe was created successfully. 2024-01-14 01:23:16.592
+[INFO]: The consolidated dataframe was created successfully. 2024-01-14 01:24:18.012
+[INFO]: The consolidated dataframe was created successfully. 2024-01-14 01:24:21.763
+[INFO]: ETL process started at: 2024-01-14 01:24:24.928
+[INFO]: Zip file downloaded and extracted successfully to the path:'./staging/' 2024-01-14 01:24:25.626
+[INFO]: The consolidated dataframe was created successfully. 2024-01-14 01:24:27.770
+[INFO]: ETL process started at: 2024-01-14 01:25:13.290
+[INFO]: Zip file downloaded and extracted successfully to the path:'./staging/' 2024-01-14 01:25:13.991
+[INFO]: The consolidated dataframe was created successfully. 2024-01-14 01:25:17.139
+[INFO]: The consolidated dataframe was created successfully. 2024-01-14 01:25:29.423
+[INFO]: Transformed data saved to: './destination/transformed_prices.csv' 2024-01-14 01:25:36.156
+[INFO]: ETL process completed successfully. 90 rows were loaded. 2024-01-14 01:25:36.156
+[ERROR]: An error occurred: [Errno 13] Permission denied: './destination/transformed_prices.csv' 2024-01-14 01:26:38.514
+[ERROR]: An error occurred: [Errno 13] Permission denied: './destination/transformed_prices.csv' 2024-01-14 01:27:25.990
+[INFO]: Transformed data saved to: './destination/transformed_prices.csv' 2024-01-14 01:27:51.009
+[INFO]: ETL process completed successfully. 90 rows were loaded. 2024-01-14 01:27:51.009
+[INFO]: The consolidated dataframe was created successfully. 2024-01-14 02:16:48.187
+[INFO]: ETL process started at: 2024-01-14 02:18:13.842
+[INFO]: Zip file downloaded and extracted successfully to the path:'./staging/' 2024-01-14 02:18:14.600
+[INFO]: ETL process started at: 2024-01-14 02:18:35.082
+[INFO]: Zip file downloaded and extracted successfully to the path:'./staging/' 2024-01-14 02:18:35.750
+[INFO]: ETL process started at: 2024-01-14 02:21:53.641
+[INFO]: Zip file downloaded and extracted successfully to the path:'./staging/' 2024-01-14 02:21:54.319
+[INFO]: ETL process started at: 2024-01-14 02:24:51.916
+[INFO]: Zip file downloaded and extracted successfully to the path:'./staging/' 2024-01-14 02:24:52.676
+[INFO]: ETL process started at: 2024-01-14 02:25:23.969
+[INFO]: Zip file downloaded and extracted successfully to the path:'./staging/' 2024-01-14 02:25:24.655
+[INFO]: ETL process started at: 2024-01-14 02:25:52.815
+[INFO]: Zip file downloaded and extracted successfully to the path:'./staging/' 2024-01-14 02:25:53.513
+[INFO]: ETL process started at: 2024-01-14 02:26:49.047
+[INFO]: Zip file downloaded and extracted successfully to the path:'./staging/' 2024-01-14 02:26:49.750
+[INFO]: ETL process started at: 2024-01-14 02:27:33.760
+[INFO]: Zip file downloaded and extracted successfully to the path:'./staging/' 2024-01-14 02:27:34.444
+[INFO]: ETL process started at: 2024-01-14 02:27:43.566
+[INFO]: Zip file downloaded and extracted successfully to the path:'./staging/' 2024-01-14 02:27:44.233
+[INFO]: ETL process started at: 2024-01-14 02:28:06.010
+[INFO]: Zip file downloaded and extracted successfully to the path:'./staging/' 2024-01-14 02:28:06.672
+[INFO]: ETL process started at: 2024-01-14 02:28:14.353
+[INFO]: Zip file downloaded and extracted successfully to the path:'./staging/' 2024-01-14 02:28:15.030
+[INFO]: ETL process started at: 2024-01-14 02:28:31.052
+[INFO]: Zip file downloaded and extracted successfully to the path:'./staging/' 2024-01-14 02:28:31.739
+[INFO]: ETL process started at: 2024-01-14 02:30:01.669
+[INFO]: Zip file downloaded and extracted successfully to the path:'./staging/' 2024-01-14 02:30:02.394
+[INFO]: The consolidated dataframe was created successfully. 2024-01-14 02:30:08.647
+[INFO]: Transformed data saved to: './destination/transformed_prices.csv' 2024-01-14 02:30:12.940
+[INFO]: ETL process completed successfully. 90 rows were loaded. 2024-01-14 02:30:12.941
+[INFO]: ETL process started at: 2024-01-14 02:44:57.690
+[INFO]: Zip file downloaded and extracted successfully to the path: './staging/' 2024-01-14 02:44:58.404
+[INFO]: ETL process started at: 2024-01-14 02:46:05.716
+[INFO]: Zip file downloaded and extracted successfully to the path:'./staging/' 2024-01-14 02:46:06.426
+[INFO]: Transformed data saved to: './destination/transformed_prices.csv' 2024-01-14 04:11:25.312
+[INFO]: ETL process completed successfully. 90 rows were loaded to the file: ./destination/transformed_prices.csv 2024-01-14 04:11:25.313
+[INFO]: Transformed data saved to: './destination/transformed_prices.csv' 2024-01-14 04:12:57.168
+[INFO]: ETL process completed successfully. 90 rows were loaded. 2024-01-14 04:12:57.168
+[INFO]: The data transformation process was successfully executed. 2024-01-14 04:13:43.936
