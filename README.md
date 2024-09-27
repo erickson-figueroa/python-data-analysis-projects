@@ -13,6 +13,10 @@ Welcome to the <strong>Python Data Analysis Projects</strong> repository! This r
   </thead>
   <tbody>
     <tr>
+      <td><a href="NPL_Text_Wiki"><strong>NPL Wikipedia Text Analysis</strong></a></td>
+      <td>Simple text analysis about data science from wikipedia page.</td>
+    </tr>
+    <tr>
       <td><a href="Car_Price_ETL"><strong>Car Price ETL Automation</strong></a></td>
       <td>This project focuses on automating the ETL process for extracting, transforming, and loading car price data from diverse formats (JSON, XML, CSV) available at a specified URL.</td>
     </tr>
